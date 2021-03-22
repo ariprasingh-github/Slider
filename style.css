@@ -1,0 +1,27 @@
+.pictures {
+width:150;
+height:150;
+}
+
+
+body {
+   background-color:darkseagreen;
+   text-align:center;
+}
+
+
+#myCarousel {
+   background-color: indianred;
+}
+
+#myCarousel img {
+   height: 300px;
+   width: 300px;
+}
+
+.carousel-inner p {
+   margin-bottom: 15px;
+   margin-top: 15px;
+   color: lightblue;
+   font-size: 25px;
+}
